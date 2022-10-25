@@ -16,6 +16,7 @@ const songs = [
   "Lil Baby, Lil Durk ft Rodwave - Rich Off Pain",
   "Miley Cyrus - Party in the U.S.A",
   "Polo G – I Know",
+  "Yeat-Factz",
 ];
 
 // Keep track of songs
